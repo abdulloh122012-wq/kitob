@@ -1,0 +1,33 @@
+.box{
+   width: 150px;
+   height: 300px;
+   background-color: black;
+   margin: auto;
+   border-radius: 15px;
+   padding-top: 10px;
+  
+  
+}
+.qizil{
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    margin: auto;
+    border-radius: 50%;
+}
+.sariq{
+    width: 80px;
+    height: 80px;
+    background-color: yellow;
+    margin: auto;
+    border-radius: 50%; 
+    margin-top: 20px;
+}
+.yashil{
+    width: 80px;
+    height: 80px;
+    background-color: green;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 20px;
+}
